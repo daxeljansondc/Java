@@ -1,5 +1,5 @@
 /*Funcion para calcular MCD*/
-/*Elaborado por Daxel Janson*/
+/*Elaborado por Daxel Janson Guerrero*/
 public class MCM {
 
     // Método para calcular el Máximo Común Divisor (MCD) usando el algoritmo de Euclides
